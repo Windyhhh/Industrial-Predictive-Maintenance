@@ -1,0 +1,44 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+out/
+
+# Hadoop
+*.log
+hdfs/
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+
+# Output images
+*.png
+!docs/images/*.png
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Data (large files)
+data/*.csv
+!data/ai4i2020.csv
