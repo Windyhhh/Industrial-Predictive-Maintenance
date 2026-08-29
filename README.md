@@ -1,6 +1,6 @@
-<div align="center">
+﻿<div align="center">
 
-# 🏭 Industrial-Predictive-Maintenance
+# 工业预测性维护 | Industrial-Predictive-Maintenance
 
 ### Hadoop MapReduce industrial fault analysis.
 
